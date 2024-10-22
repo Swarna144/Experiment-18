@@ -149,6 +149,7 @@ int main()
 OUTPUT:-
 
 18
+
 ![Ex 18 JPG(1)](https://github.com/user-attachments/assets/25be4e94-d696-4b25-bd51-57414f0be576)
 ![Ex 18 JPG(2)](https://github.com/user-attachments/assets/8047e007-1c65-49df-ad2e-18dc8d462a9d)
 
